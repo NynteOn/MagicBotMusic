@@ -1,0 +1,2 @@
+# MagicBotMusic
+Bot For music
